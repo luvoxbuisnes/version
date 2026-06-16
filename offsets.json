@@ -6,5 +6,6 @@
   "task_defer": "0x465AB10",
   "Offset_InsertSet": "0xDCA3C0",
   "Offset_WhitelistedPages": "0x2A5028",
-  "PAGE_ENCRYPTION_KEY": "0x8BAE0AA10C9180A4" 
+  "PAGE_ENCRYPTION_KEY": "0x8BAE0AA10C9180A4"
+  
 }
